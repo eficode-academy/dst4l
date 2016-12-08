@@ -1,2 +1,0 @@
-#Jesper Lauridsen
-Ayyyy. Workz
