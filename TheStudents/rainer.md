@@ -4,4 +4,4 @@
 
 ### I am in love with data. I also like Alpacas...
 
-![This is an Alpaca](/lifebuzz-542e07c904982662318e5a45aed92540-limit_2000.jpg)
+![This is an Alpaca](http://www.granaryalpacas.co.uk/images/Carlos.png)
