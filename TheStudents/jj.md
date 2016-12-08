@@ -1,1 +1,1 @@
-bachelor student at IVA 
+# bachelor student at IVA/RSLIS
