@@ -7,3 +7,5 @@
 #### As Lincoln said:
 > Cats are really awesome
 >
+
+![Kitty](https://github.com/praqma-training/dst4l/blob/master/TheStudents/Kitty.png)
